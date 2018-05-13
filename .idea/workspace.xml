@@ -2,440 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="183ac7aa-3c87-4df7-aaad-be0674c855d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AAA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddTwoNumbersII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AddandSearchWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AdditiveNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AlienDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AndroidUnlockPatterns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ArithmeticSlices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AssignCookies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/AverageofLevelsinBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BalancedBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Base7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BasicCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BasicCalculatorII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BattleshipsinaBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestMeetingPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestTimetoBuyandSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestTimetoBuyandSellStockII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestTimetoBuyandSellStockIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestTimetoBuyandSellStockIV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BestTimetoBuyandSellStockwithCooldown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinarySearchTreeIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeInorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeLevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeLevelOrderTraversalII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeLongestConsecutiveSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeMaximumPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreePostorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreePreorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeRightSideView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeTilt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeUpsideDown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeVerticalOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryTreeZigzagLevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BinaryWatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BitwiseANDofNumbersRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BombEnemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BulbSwitcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BullsandCows.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/BurstBalloons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CanPlaceFlowers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Candy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ClimbingStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CloneGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ClosestBinarSearchTreeValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ClosestBinarySearchTreeValueII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CoinChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CombinationSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CombinationSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CombinationSumIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CombinationSumIV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Combinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CompareVersionNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ConstructBinaryTreefromInorderandPostorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ConstructBinaryTreefromPreorderandInorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ContainerWithMostWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ContainsDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ContainsDuplicateII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ContainsDuplicateIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ConvertSortedArraytoBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ConvertSortedListtoBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ConvertaNumbertoHexadecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CopyListwithRandomPointer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountCompleteTreeNodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountNumberswithUniqueDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountPrimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountUnivalueSubtrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountandSay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountingBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountofRangeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CountofSmallerNumbersAfterSelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CourseSchedule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CourseScheduleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/CreateMaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DataStreamasDisjointIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DecodeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DecodeWays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DeleteNodeInALinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DesignHitCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DesignPhoneDirectory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DesignSnakeGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DesignTicTacToe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DesignTwitter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DiameterofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DifferentWaystoAddParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DistinctSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DivideTwoIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/DungeonGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/EditDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/EliminationGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/EncodeandDecodeStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/EvaluateDivision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/EvaluateReversePolishNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ExcelSheetColumnNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ExcelSheetColumnTitle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ExpressionAddOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FactorCombinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FactorialTrailingZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindAllAnagramsinaString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindAllDuplicatesinanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindAllNumbersDisappearedinanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindBottomLeftTreeValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindKPairswithSmallestSums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindLeavesofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindMedianfromDataStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindMinimuminRotatedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindMinimuminRotatedSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindPeakElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindtheCelebrity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindtheDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FindtheDuplicateNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FirstBadVersion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FirstMissingPositive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FirstUniqueCharacterinaString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Flatten2DVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FlattenBinaryTreetoLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FlattenNestedListIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FlipGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FlipGameII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FourSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FourSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/FractiontoRecurringDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GameofLife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GasStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GeneralizedAbbreviation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GenerateParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GraphValidTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GrayCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GroupAnagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GroupShiftedStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GuessNumberHigherorLower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/GuessNumberHigherorLowerII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HIndexII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HappyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HouseRobber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HouseRobberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/HouseRobberIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ImplementQueueusingStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ImplementStackusingQueues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ImplementTrie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ImplementstrStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IncreasingSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IncreasingTripletSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InorderSuccessorinBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InsertDeleteGetRandom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InsertDeleteGetRandomDuplicatesallowed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InsertInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InsertionSortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntegerBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntegerReplacement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntegertoEnglishWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntegertoRoman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InterleavingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntersectionofTwoArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntersectionofTwoArraysII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IntersectionofTwoLinkedLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Interval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/InvertBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IsSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/IsomorphicStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/JumpGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/JumpGameII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/KthLargestElementinanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/KthSmallestElementinaBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/KthSmallestElementinaSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LRUCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LargestBSTSubtree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LargestDivisibleSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LargestNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LargestRectangleinHistogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LengthofLastWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LetterCombinationsofaPhoneNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LexicographicalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LineReflection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LinkedListCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LinkedListCycleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LinkedListRandomNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LoggerRateLimiter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestAbsoluteFilePath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestCommonPrefix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestConsecutiveSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestIncreasingPathinaMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestPalindromicSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestPalindromicSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestSubstringwithAtLeastKRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestSubstringwithAtMostKDistinctCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestSubstringwithAtMostTwoDistinctCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LongestValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LowestCommonAncestorofaBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/LowestCommonAncestorofaBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MajorityElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MajorityElementII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaxConsecutiveOnes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaxPointsonaLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaxSumofRectangleNoLargerThanK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximalRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximalSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumDepthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumGap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumProductSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumProductofThreeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumProductofWordLengths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumSizeSubarraySumEqualsk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MaximumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MedianofTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MeetingRooms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MeetingRoomsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MergeIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MergeSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MergeTwoBinaryTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MergeTwoSortedLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MergekSortedLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MiniParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumDepthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumHeightTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumMovestoEqualArrayElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumSizeSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MinimumWindowSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MissingNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MissingRanges.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MoveZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MovingAveragefromDataStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/MultiplyStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NQueensII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NestedInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NestedListWeightSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NestedListWeightSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NextGreaterElementI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NimGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NonoverlappingIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NthDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Numberof1Bits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofBoomerangs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofConnectedComponentsinanUndirectedGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofDigitOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofIslands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofIslandsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/NumberofSegmentsinaString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/OddEvenLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/OneEditDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PaintFence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PaintHouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PaintHouseII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromeLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromePairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromePartitioning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromePartitioningII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromePermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromePermutationII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PalindromicSubstrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PartitionEqualSubsetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PartitionList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PascalTriangleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PatchingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PathSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PathSumIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PeekingIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PerfectRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PerfectSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PermutationSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PermutationsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PlusOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PlusOneLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PopulatingNextRightPointersinEachNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PopulatingNextRightPointersinEachNodeII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Pow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PowerofFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PowerofThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/PowerofTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ProductofArrayExceptSelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/QueueReconstructionbyHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RandomPickIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RangeAddition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RangeSumQuery2DImmutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RangeSumQuery2DMutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RangeSumQueryImmutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RangeSumQueryMutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RansomNote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReadNCharactersGivenRead4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReadNCharactersGivenRead4II_Callmultipletimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RearrangeStringkDistanceApart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReconstructItinerary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReconstructOriginalDigitsfromEnglish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RecoverBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RectangleArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RegularExpressionMatching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveDuplicateLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveDuplicatesfromSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveDuplicatesfromSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveDuplicatesfromSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveDuplicatesfromSortedListII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveInvalidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveLinkedListElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RemoveNthNodeFromEndofList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReorderList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RepeatedDNASequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RestoreIPAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseLinkedListII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseNodesinkGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseStringII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseVowelsofaString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseWordsinaString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseWordsinaStringII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ReverseWordsinaStringIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RomantoInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RotateFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RotateImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RotateList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/RussianDollEnvelopes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SameTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ScrambleString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SearchInsertPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Searcha2DMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Searcha2DMatrixII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SearchforaRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SearchinRotatedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SearchinRotatedSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SelfCrossing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SerializeandDeserializeBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SerializeandDeserializeBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SetMatrixZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShortestDistancefromAllBuildings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShortestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShortestWordDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShortestWordDistanceII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShortestWordDistanceIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ShuffleanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SimplifyPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SingleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SingleNumberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SingleNumberIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SlidingWindowMaximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SmallestRectangleEnclosingBlackPixels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SortTransformedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SparseMatrixMultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SpiralMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SpiralMatrixII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Sqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/StringCompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/StringtoInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/StrobogrammaticNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/StrobogrammaticNumberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/StrobogrammaticNumberIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SubarraySumEqualsK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Subsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SubsetsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SubstringwithConcatenationofAllWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SudokuSolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SumRoottoLeafNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SummaryRanges.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SumofLeftLeaves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SumofTwoIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SuperPow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SuperUglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SurroundedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SwapNodesinPairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/SymmetricTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TextJustification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TheSkylineProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ThirdMaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ThreeSumClosest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ThreeSumSmaller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TopKFrequentElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TrappingRainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TreeLinkNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TwoSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TwoSumIII_Datastructuredesign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/TwoSumIVInputisaBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UTF8Validation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UglyNumberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UndirectedGraphNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UniqueBinarySearchTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UniqueBinarySearchTreesII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UniquePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UniquePathsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/UniqueWordAbbreviation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidAnagram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidPerfectSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidSudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ValidateBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/VerifyPreorderSequenceinBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/VerifyPreorderSerializationofaBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WallsandGates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WaterandJugProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WiggleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WiggleSortII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WiggleSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WildcardMatching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordBreakII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordLadder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordLadderII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordPatternII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/WordSearchII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ZigZagConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/code/ZigzagIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-edward-400/list.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -446,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AddStrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/AddStrings.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -456,17 +23,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
+            <state relative-caret-position="649">
               <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding>
                 <element signature="e#1087#1088#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1128#1129#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cspiration.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cspiration.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -483,8 +64,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -500,13 +81,14 @@
     <option name="width" value="1900" />
     <option name="height" value="995" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -514,34 +96,23 @@
               <item name="cspiration" type="b2602c69:ProjectViewProjectNode" />
               <item name="cspiration" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cspiration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cspiration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cspiration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cspiration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Java/jdk1.8.0_144/bin/jvisualvm.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -641,61 +212,103 @@
       <option name="presentableId" value="Default" />
       <updated>1526194537556</updated>
       <workItem from="1526194541005" duration="251000" />
+      <workItem from="1526194890620" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251000" />
+    <option name="totallyTimeSpent" value="754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="JRebel" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AddStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/AddandSearchWord.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -711,12 +324,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
+        <state relative-caret-position="649">
           <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding>
             <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cspiration.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
