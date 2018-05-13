@@ -44,4 +44,8 @@ public class AddTwoNumbers {
         }
         return dummy.next;
     }
+
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
 }
